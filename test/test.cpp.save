@@ -1,0 +1,6 @@
+#include "hello.cpp"
+
+int main() {
+	Hello().Print();
+	return 0;
+}

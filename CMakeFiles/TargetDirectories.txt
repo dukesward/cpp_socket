@@ -1,0 +1,13 @@
+/home/duke/Projects/c++/socket/CMakeFiles/edit_cache.dir
+/home/duke/Projects/c++/socket/CMakeFiles/rebuild_cache.dir
+/home/duke/Projects/c++/socket/src/CMakeFiles/edit_cache.dir
+/home/duke/Projects/c++/socket/src/CMakeFiles/rebuild_cache.dir
+/home/duke/Projects/c++/socket/src/CMakeFiles/hello_src.dir
+/home/duke/Projects/c++/socket/src/socket/CMakeFiles/edit_cache.dir
+/home/duke/Projects/c++/socket/src/socket/CMakeFiles/rebuild_cache.dir
+/home/duke/Projects/c++/socket/src/socket/CMakeFiles/socket_src.dir
+/home/duke/Projects/c++/socket/headers/CMakeFiles/edit_cache.dir
+/home/duke/Projects/c++/socket/headers/CMakeFiles/rebuild_cache.dir
+/home/duke/Projects/c++/socket/test/CMakeFiles/edit_cache.dir
+/home/duke/Projects/c++/socket/test/CMakeFiles/rebuild_cache.dir
+/home/duke/Projects/c++/socket/test/CMakeFiles/hello_test.dir

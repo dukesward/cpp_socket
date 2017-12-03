@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duke/Projects/c++/socket/test/test.cpp
+hello.cpp
+/home/duke/Projects/c++/socket/test/hello.cpp
+socket.cpp
+/home/duke/Projects/c++/socket/test/socket.cpp
+
+headers/hello.h
+
+headers/socket/socket.h
+
+src/hello.cpp
+hello.h
+src/hello.h
+iostream
+-
+
+src/socket/socket.cpp
+socket.h
+src/socket/socket.h
+iostream
+-
+

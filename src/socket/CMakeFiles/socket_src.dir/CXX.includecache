@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duke/Projects/c++/socket/src/socket/socket.cpp
+socket.h
+/home/duke/Projects/c++/socket/src/socket/socket.h
+iostream
+-
+
+headers/socket/socket.h
+
