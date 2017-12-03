@@ -1,8 +1,0 @@
-#include headers for hello
-s
-
-include_directories(${CMAKE_SOURCE_DIR}/hello_src)
-
-add_executable(hello_test test)
-
-target_link_libraries(hello_test hello_src)

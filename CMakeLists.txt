@@ -1,5 +1,7 @@
 ####### setup project and cmake #######
 
+set(CMAKE_LEGACY_CYGWIN_WIN32 0)
+
 # Project name
 project (socket)
 
