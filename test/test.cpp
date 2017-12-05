@@ -1,9 +1,9 @@
 #include "hello.cpp"
 #include "socket.cpp"
+#include "char_list.cpp"
 
 int main(int argc, char *argv[]) {
-	Hello(2).Print();
-	Test t;
-	t.Print(5);
+	char c[] = {"hello"};
+	CharList list(c);
 	return 0;
 }
