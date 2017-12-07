@@ -3,20 +3,20 @@
 
 using namespace std;
 
-CharList::CharList(char c[])
+template<typename T, int N>
+CharList<T,N>::CharList(T (&c)[N])
 {
-	for(int i=0; c[i] != "\0"; i++)
-	{
-		
-	}
+	cout << N << endl;
 }
 
-CharList::~CharList()
+template<typename T, int N>
+CharList<T,N>::~CharList()
 {
 
 }
 
-void CharList::print()
+template<typename T, int N>
+void CharList<T,N>::print()
 {
 	for(char c:content)
 	{
@@ -24,7 +24,8 @@ void CharList::print()
 	}
 }
 
-void add(char key[], char val[])
+template<typename T, int N>
+void CharList<T,N>::add(char key[], char val[])
 {
 
 }
